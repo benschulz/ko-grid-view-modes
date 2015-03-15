@@ -1,0 +1,1 @@
+A ko-grid extension which tracks which modes the view is in (e.g. full screen).

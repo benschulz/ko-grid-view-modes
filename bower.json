@@ -1,0 +1,21 @@
+{
+  "name": "ko-grid-view-modes",
+  "main": "dist/ko-grid-view-modes.js",
+  "description": "A ko-grid extension which tracks which modes the view is in (e.g. full screen).",
+  "authors": ["Ben Schulz (https://github.com/benschulz)"],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "ko-grid"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/benschulz/ko-grid-view-modes.git"
+  },
+  "dependencies": {
+    "knockout": "^3.2.0",
+    "ko-grid": "benschulz/ko-grid"
+  },
+  "devDependencies": {
+    "onefold-js": "benschulz/onefold-js"
+  }
+}
