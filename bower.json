@@ -12,7 +12,7 @@
     "url": "http://github.com/benschulz/ko-grid-view-modes.git"
   },
   "dependencies": {
-    "knockout": "^3.2.0",
+    "knockout": "^3.3.0",
     "ko-grid": "benschulz/ko-grid"
   },
   "devDependencies": {
